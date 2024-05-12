@@ -1,9 +1,9 @@
-import Counter from "./Counter";
+import GitHubUser from "./UseReducer/GitHubUser";
 
 function App() {
   return (
     <div className="App">
-     <Counter/>
+     <GitHubUser/>
     </div>
   );
 }
