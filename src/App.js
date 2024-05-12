@@ -1,9 +1,9 @@
-import UsersList from "./components/SearchUser";
+import Counter from "./Counter";
 
 function App() {
   return (
     <div className="App">
-     <UsersList/>
+     <Counter/>
     </div>
   );
 }
