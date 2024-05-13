@@ -1,9 +1,10 @@
-import GitHubUser from "./UseReducer/GitHubUser";
-
+import Login from "./components/Login";
 function App() {
+  
+ 
   return (
     <div className="App">
-     <GitHubUser/>
+    <Login/>
     </div>
   );
 }
